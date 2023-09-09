@@ -1,0 +1,27 @@
+.main{
+    background-color:#9E3039;
+    width:900px;
+    height:600px;
+    position:absolute;
+    border:5px solid black;
+    
+}
+
+div>div
+{
+    background-color:hsl(0, 0%, 100%);
+    width:900px;
+    height:120px;
+    position:relative;
+    margin-top:240px;
+}
+div>h1
+ {
+    position:relative;
+    text-align:center;
+    font-size:50px;
+    top:400px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
